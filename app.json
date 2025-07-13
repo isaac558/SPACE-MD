@@ -16,20 +16,20 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
+    "value": "CYPHER-X:~UEsDBBQAAAgIAK287FpuWq1iUgQAAG0HAAAKAAAAY3JlZHMuanNvbpVUW5OiOBT+L3nVGrkIKFVdNSBeQGlFBJWteQgQMMrNJKg45X*fwp7unofd2V6ewknqnC*fJT9BUWKK5qgB6k9QEXyBDLVL1lQIqECvkwQR0AUxZBCoYGvg+TSR+q4A62jbJyFxj5s4LavpQvTM5DxPJo2oLNazLHoBjy6o6jDD0R8aDl*zQd*XDwujcOXV0rnVjo13qBYOqzkrpGyBRMs0fUM62S*g0XaEmOAiHVcHlCMCszlqVhCTr8HnJkzUNtPgFlqR09OvA7pHm140O+6G5lm49BnvpWxSpYnPfQ0+YmdjjSI4OkbLYltre740V8Gd6tt9nnpEPsNclm4p0UXzDT7FaYFiM0YFw6z5Mu9XS7FvXppp2m5mDsT1cR46u77BCL1flh4WpHFtmR07LHn6NeBGR7h71SC+e9wympX6OlpLZRBNPN3c9Zz6NBuaIYH3oJdHvwNfkXevnP4P77KxwHIuxatJee5p675*ys6Obpzc64FV1nordHKjKE4Tgx9*kXcaF8utq43lg6KXqAgOpuV3Tv7UhZtl8qqMQ2nn2W7i8fYnfMhq8ieUg*NIKnc3fwMHpW4F*LmjjPRK3PVeL5YjXGUSXQOFcxXJEDV5Y*rSANf7ZtbJna3kTC3D7Odwcd0485qUXBUm1vHWjLSX541OqDFjoPKPLiAoxZQRyHBZPGtDvgtgfHFRRBB70gvGp8NUEbBCfWUWND5BlSIcztNw1nHyhXuGljOYanVPx9X+BXRBRcoIUYriGaasJI2NKIUpokD960cXFOjG3oRrx4l8FySYUOYVdZWVMH5X9X0TRlFZF8xtimjULhABKvdZRozhIqUtj3UBSXTAFzQ6QEaBmsCMoo8bIoJioDJSo4*Ujsq4JX633Rv2aCuDLsifguAYqEAQRYkbcDzHi5zKf6ffrm1XWFXfCsRAF2TPU*JgKMmCwomyIAuSyn9vy48PeG23GDGIMwpUMLKQ26Pj1*G8d2wG9nSqjVNtlGrg8zrvvnjj3Zt7zQgfs2BZ8UF*eg+OrLhcGUmmu33e2wT++LKeC9mq43kv*9CkDZbRGU9oEjs7aT0bZpbcG0IR1rbhNqVTZGvv4NBpku+UMEGpT9MlOt9fj4ahNZGiLPir*wrvvrSIo*pyqXbWaHP2L1proi6I0QVH6PdhYSP2s70ddKq1suwM71fCafw53LOtPJvvUjoLHCGsJ5wkeplp2ythBddimNJNeqsCm1mheSEbsuR8ZOztuU7u7PZqXN8c+0xM9uulwk8vtUK1vwlGz+AXsJXvP4V7w93ai3t0f2vx6yX5lzTq*iiz07KUtptzvEU6FfZKoAwWULxlgnXhBH+94FxWbXrZBDweP7qgyiBLSpIDFeDqUBYIdAEp69auZpGUf5g10kzzPakZpEz7jMAG54gymFdA5RVJEGWx3xfeTq1IWc0gPQAViOnKs06tnxutqlwG2XuigNZ+4+0RPP4GUEsBAhQDFAAACAgArbzsWm5arWJSBAAAbQcAAAoAAAAAAAAAAAAAAKSBAAAAAGNyZWRzLmpzb25QSwUGAAAAAAEAAQA4AAAAegQAAAAA",
     "required": false
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "233508010130",
     "required": true
   },
   "GITHUB_USERNAME": {
     "description": "You must set your github username to use the bot unless you're a premium user",
-    "value": "",
+    "value": "isaac558",
     "required": false
   },
-   "BOT_PASSWORD": {
+   "BOT_PASSWORD": {Chairmano123}
     "description": "This will be used as auth code for others who'll connect using the app web",
     "value": "12345678",
     "required": false
